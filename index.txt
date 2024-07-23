@@ -1,1 +1,11 @@
 Právě tvořím běžnou htlm strukturu a propojuji ji se styly :-) 
+        
+                    BODY
+ <h1>  10 tipů, jak být lepším člověkem                             </h1>
+
+ <h2>  1. Každý den se osprchujte!!!                                </h2>
+ <p>   Je dobré být čistý, abys tolik nesmrděl.                     </p>
+
+ <h2>  2. Čistý zub = zdravý chrup.       </h1>
+ <p>   Když si každý den vyčistíte zuby, bude vám vonět dech.       </p>
+
